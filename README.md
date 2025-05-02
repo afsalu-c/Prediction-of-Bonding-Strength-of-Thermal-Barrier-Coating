@@ -39,7 +39,7 @@ This project develops a machine learning-based predictive framework to estimate 
 * Pandas
 * Numpy
 
-## 📚 Future Scope
+## Future Scope
 
 * Expand to other coating types (e.g., EB-PVD coatings).
 * Integrate real-time data acquisition for live prediction.
