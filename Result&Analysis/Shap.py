@@ -6,7 +6,7 @@ import numpy as np
 import shap
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Load
 data = pd.read_csv('synthetic_data.csv')
 
 # Features and target
